@@ -1,27 +1,29 @@
-// let a = 5
-// let b = 5
-// let c = a + b
+export = {}
 
-// // console.log(c)
+let a = 5
+let b = 5
+let c = a + b
 
-// class Car {
+// console.log(c)
 
-//   // fields  
-//     model: String;  
-//     doors: Number;  
-//     isElectric: Boolean;
+class Car {
+
+  // fields  
+    model: String;  
+    doors: Number;  
+    isElectric: Boolean;
   
-//   constructor(model: String, doors: Number, isElectric: Boolean) {  
-//       this.model = model;  
-//       this.doors = doors;  
-//       this.isElectric = isElectric;  
-//     }
+  constructor(model: String, doors: Number, isElectric: Boolean) {  
+      this.model = model;  
+      this.doors = doors;  
+      this.isElectric = isElectric;  
+    }
   
-//   displayMake(): void {  
-//       console.log(`This car is ${this.model}`);  
-//     }
+  displayMake(): void {  
+      console.log(`This car is ${this.model}`);  
+    }
   
-//   }
+  }
 
 
   function printLabel(labeledObj: { label: string }) {
