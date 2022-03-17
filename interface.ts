@@ -1,4 +1,4 @@
-// interface: a blueprint for an object (loosely)
+// INTERFACE: A BLUEPRINT FOR AN OBJECT (LOOSELY)
 //
 // interfaces are another way typescript checks our 
 // code for errors as its being compieled into javascript
