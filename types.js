@@ -16,4 +16,3 @@ var cat = Starks.Catlyn;
 function getName() {
     console.log('Winter is coming!');
 }
-module.exports = {};

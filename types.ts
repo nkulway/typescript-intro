@@ -18,3 +18,4 @@ var cat : Starks = Starks.Catlyn
 function getName() : void{
   console.log('Winter is coming!')
 }
+
