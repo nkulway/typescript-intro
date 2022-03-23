@@ -20,7 +20,7 @@ class Person {
 var bran = new Person("Bran")
 bran.dance()
 
-// the 'extends' keyword means that this class will automaticall start with 
+// the 'extends' keyword means that this class will automatically start with 
 // all the properties of the class it extends
 // so in this class we dont need to define the name or a constructor,
 // if we dont want, or dance
